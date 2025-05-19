@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\otomasyon\\otomasyon\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E85C5F9-DBDA-49CA-B649-616144877A62}|Otomasyon\\Otomasyon.csproj|solutionrelative:otomasyon\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Program.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Program.cs",
+              "RelativeToolTip": "Otomasyon\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:40:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Otomasyon\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Otomasyon\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:40:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Otomasyon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Otomasyon\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:39:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Otomasyon\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:38:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\Project.cs",
+              "RelativeToolTip": "Otomasyon\\Models\\Project.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:37:33.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Otomasyon\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:37:32.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Models\\User.cs",
+              "RelativeToolTip": "Otomasyon\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:37:22.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "Otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "Otomasyon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T08:53:48.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Otomasyon\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Otomasyon\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:40:47.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Otomasyon\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\Otomasyon\\Otomasyon\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Otomasyon\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T21:36:54.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+@model IEnumerable<Otomasyon.Models.TaskItem>
+@using Otomasyon.Models
+
+@{
+    ViewData["Title"] = "Görevler";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" asp-route-projectId="@ViewBag.ProjectId" class="btn btn-primary">Yeni Görev Oluştur</a>
+</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-header bg-secondary text-white">
+                Yapılacaklar
+            </div>
+            <div class="card-body">
+                @foreach (var item in Model.Where(t => t.Status == TaskItemStatus.ToDo))
+                {
+                    <div class="card mb-2">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">@item.Description</p>
+                            <div class="btn-group">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-header bg-primary text-white">
+                Devam Edenler
+            </div>
+            <div class="card-body">
+                @foreach (var item in Model.Where(t => t.Status == TaskItemStatus.InProgress))
+                {
+                    <div class="card mb-2">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">@item.Description</p>
+                            <div class="btn-group">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card mb-4">
+            <div class="card-header bg-success text-white">
+                Tamamlananlar
+            </div>
+            <div class="card-body">
+                @foreach (var item in Model.Where(t => t.Status == TaskItemStatus.Done))
+                {
+                    <div class="card mb-2">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">@item.Description</p>
+                            <div class="btn-group">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Project" asp-action="Index" class="btn btn-secondary">Projelere Dön</a>
+</div> 
